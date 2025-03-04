@@ -25,3 +25,4 @@ dependencies:
     - trl
     - datasets
     - skore # for scoring, developped by the scikit-learn team
+    - wikipedia
